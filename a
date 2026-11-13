@@ -1,2 +1,3 @@
 print (hello)
-touchable = (hello) :true: swap (hello) to (hi) when tapped
+touchable = (hello) :true: //swap (hello) to (hi) when tapped
+end
